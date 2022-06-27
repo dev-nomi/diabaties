@@ -1,0 +1,101 @@
+Temp1,HR,Spo2,BP,GL,Condition
+Normal,Normal,Critical,Elevated,Normal,Critical
+Low,Normal,Worrisome,Elevated,Low,Critical
+Low,Low,Worrisome,Normal,Elevated,Unhealthy
+Low,Normal,Worrisome,Normal,Low,Critical
+Low,Low,Normal,Normal,Elevated,Unhealthy
+Normal,Low,Normal,Elevated,High,Critical
+Normal,Low,Normal,Elevated,Low,Critical
+Normal,Low,Normal,Elevated,Low,Critical
+High,Low,Normal,Elevated,Normal,Unhealthy
+Normal,Low,Normal,Normal,High,Critical
+Normal,Low,Normal,Low,Normal,Unhealthy
+Normal,Low,Normal,Low,High,Very Critical
+Normal,Low,Normal,Low,Low,Very Critical
+Normal,Normal,Critical,Elevated,Low,Very Critical
+Normal,Low,Critical,Low,High,Very Critical
+Low,Normal,Critical,Normal,Normal,Critical
+Low,Low,Critical,Normal,High,Very Critical
+Low,Low,Critical,Normal,Low,Very Critical
+Low,Low,Normal,Normal,Low,Very Critical
+Low,Low,Critical,Normal,Low,Very Critical
+Low,Low,Normal,Normal,High,Very Critical
+Low,Low,Normal,Low,High,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Low,High,Very Critical
+Low,Low,Normal,Low,Normal,Very Unhealthy
+Low,Low,Normal,Low,High,Very Critical
+Normal,Low,Normal,Low,High,Very Critical
+Low,Low,Normal,Normal,Normal,Unhealthy
+Low,Low,Worrisome,Low,Normal,Very Unhealthy
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Low,Low,Normal,Normal,High,Very Critical
+Normal,Low,Normal,Normal,Low,Critical
+Low,Low,Critical,Low,High,Very Critical
+Normal,Low,Critical,Low,Low,Very Critical
+High,Low,Critical,Low,Low,Very Critical
+High,Low,Critical,Low,High,Very Critical
+High,Low,Critical,Low,Normal,Critical
+High,Low,Critical,Low,Elevated,Critical
+High,Low,Critical,Low,Low,Very Critical
+High,Normal,Critical,Normal,Low,Very Critical
+High,Normal,Worrisome,Normal,Normal,Moderate
+Low,Normal,Worrisome,Low,Low,Very Critical
+Low,Low,Critical,Low,High,Very Critical
+Low,Low,Worrisome,Low,High,Very Critical
+Normal,Low,Normal,Low,Normal,Unhealthy
+High,Low,Normal,Normal,Low,Very Critical
+Normal,Low,Normal,Normal,Low,Critical
+Low,Low,Critical,Normal,High,Very Critical
+Low,Low,Normal,Low,Low,Very Critical
+Normal,Low,Critical,Low,High,Very Critical
+Normal,Normal,Critical,Normal,Low,Very Critical
+High,Low,Critical,Normal,Normal,Critical
+High,Normal,Critical,Normal,High,Very Critical
+High,Normal,Critical,Low,Low,Very Critical
+High,Normal,Normal,Normal,Low,Critical
+Normal,Low,Critical,Low,Normal,Critical
+Low,Normal,Critical,Low,Normal,Critical
+High,Low,Critical,Low,High,Very Critical
+Normal,High,Normal,Low,Normal,Unhealthy
+Normal,High,Worrisome,Low,High,Very Critical
+High,High,Critical,High,Elevated,Critical
+High,Low,Critical,Low,Normal,Critical
+High,Low,Critical,Low,Low,Very Critical
+High,Low,Critical,Low,Low,Very Critical
+Low,Low,Critical,Low,Normal,Critical
+Low,Low,Critical,Low,Low,Very Critical
+Low,Normal,Critical,Normal,Normal,Critical
+Low,Low,Critical,Low,Normal,Critical
+Normal,Normal,Normal,Low,High,Critical
+Normal,Normal,Normal,Low,High,Critical
+Normal,Low,Normal,Elevated,Low,Critical
+Normal,Low,Worrisome,Low,Low,Very Critical
+Low,Low,Critical,Normal,Low,Very Critical
+Normal,Normal,Critical,Normal,Normal,Critical
+Low,Normal,Worrisome,Normal,High,Critical
+Low,Normal,Normal,Normal,Normal,Moderate
+Low,Normal,Normal,Normal,Normal,Moderate
+Low,Normal,Normal,Normal,High,Critical
+High,Normal,Normal,Elevated,Low,Critical
+Low,Normal,Critical,Normal,Low,Very Critical
+Low,Low,Critical,Normal,Normal,Critical
+Low,Low,Normal,Low,Normal,Very Unhealthy
+Low,Low,Critical,Low,High,Very Critical
+Low,Low,Critical,Low,Low,Very Critical
+Low,Low,Critical,Low,Normal,Critical
+Low,Low,Critical,Low,High,Very Critical
+Low,Low,Worrisome,Normal,Normal,Unhealthy
+Low,Low,Normal,Normal,High,Very Critical
+Low,Low,Normal,Normal,Low,Very Critical
+Low,Normal,Critical,Normal,Low,Very Critical
+Low,Normal,Critical,Normal,Low,Very Critical
+Low,Normal,Normal,Normal,Normal,Moderate
+High,Low,Worrisome,Normal,High,Very Critical
+High,Normal,Critical,Normal,Normal,Critical
+High,Normal,Critical,Normal,Low,Very Critical

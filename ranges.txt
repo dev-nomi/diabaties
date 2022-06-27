@@ -1,0 +1,26 @@
+Blood pressure
+0-90 low
+91-119 normal
+120-129 elevated
+130 high
+===============================
+Temperature
+0-34 low
+35-38 normal
+39 high
+===============================
+Gloucose level
+0-69 low
+70-100 normal
+101-124 elevated
+125 high
+===============================
+Heart rate
+0-109 low
+110-155 normal
+156 high
+===============================
+Oxygen saturation
+0-89 critical
+90-93 worrisome
+94 normal
